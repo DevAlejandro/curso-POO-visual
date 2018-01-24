@@ -1,0 +1,7 @@
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\bin\Debug\presentacion4.exe.config
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\bin\Debug\presentacion4.exe
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\bin\Debug\presentacion4.pdb
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\obj\Debug\presentacion4.csprojResolveAssemblyReference.cache
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\obj\Debug\presentacion4.csproj.CoreCompileInputs.cache
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\obj\Debug\presentacion4.exe
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion4\presentacion4\obj\Debug\presentacion4.pdb

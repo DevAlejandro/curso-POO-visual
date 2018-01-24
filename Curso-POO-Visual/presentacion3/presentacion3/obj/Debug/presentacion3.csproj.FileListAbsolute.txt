@@ -1,0 +1,7 @@
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\obj\Debug\presentacion3.csprojResolveAssemblyReference.cache
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\obj\Debug\presentacion3.csproj.CoreCompileInputs.cache
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\bin\Debug\presentacion3.exe.config
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\bin\Debug\presentacion3.exe
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\bin\Debug\presentacion3.pdb
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\obj\Debug\presentacion3.exe
+G:\DEV-Alejandro\Curso-POO-Visual\presentacion3\presentacion3\obj\Debug\presentacion3.pdb
